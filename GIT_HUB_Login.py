@@ -51,8 +51,7 @@ def user_login(user_id,user_pw) :
     except :
         print("Click Login button Fail")
 
-
-user_id = "daniellee630911"
-user_pw = "Daniel630911"
+user_id = "please change user id"
+user_pw = "please change user pw"
 user_login(user_id,user_pw)
 
